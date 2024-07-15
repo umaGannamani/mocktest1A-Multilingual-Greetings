@@ -1,0 +1,26 @@
+.buttons-list {
+  list-style-type: none;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.color {
+  color: #ffffff;
+  background-color: #db1c48;
+  border-radius: 15px;
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding: 10px;
+  width: 90px;
+  border: none;
+}
+.tab-btn {
+  border-radius: 15px;
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding: 10px;
+  width: 90px;
+  border: 1px solid #db1c48;
+  cursor: pointer;
+}
